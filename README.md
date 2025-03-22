@@ -2,10 +2,6 @@
 
     Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
 
-# Video
-
-    https://youtu.be/gWAV3HmWjmY
-
 # Description
 
     We will Make Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
